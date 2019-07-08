@@ -15,8 +15,14 @@
 
 class Solution:
     def hammingDistance(self, x: 'int', y: 'int') -> 'int':
-        return bin(x^y).count(str(1))
+        a=bin(x^y)
+        b=0
+
+        for i in range(len(a)):
+            if a[i]=='1':
+                b+=1
+        return b
 
 s = Solution()
-x,y=1,4
+x,y=1,1
 print(s.hammingDistance(x,y))

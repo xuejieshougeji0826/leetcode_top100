@@ -1,30 +1,36 @@
-'''
-给定一个字符串 s 和一个非空字符串 p，找到 s 中所有是 p 的字母异位词的子串，返回这些子串的起始索引。
-字符串只包含小写英文字母，并且字符串 s 和 p 的长度都不超过 20100。
-说明：
-字母异位词指字母相同，但排列不同的字符串。不考虑答案输出的顺序。
-示例 1:
-输入:
-s: "cbaebabacd" p: "abc"
-输出:
-[0, 6]
-解释:
-起始索引等于 0 的子串是 "cba", 它是 "abc" 的字母异位词。
-起始索引等于 6 的子串是 "bac", 它是 "abc" 的字母异位词。
+class Solution(object):
+    def findAnagrams(self, s, p):
 
- 示例 2:
-输入:
-s: "abab" p: "ab"
-输出:
-[0, 1, 2]
-解释:
-起始索引等于 0 的子串是 "ab", 它是 "ab" 的字母异位词。
-起始索引等于 1 的子串是 "ba", 它是 "ab" 的字母异位词。
-起始索引等于 2 的子串是 "ab", 它是 "ab" 的字母异位词。'''
+        list=[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103]
+        list1 = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+        dic={}
+        flag=0
+        l=len(p)
+        final=[]
+        if len(s)<len(p) or len(s)==0 or len(p)==0:
+            return final
 
-class Solution:
-    def findAnagrams(self, s: 'str', p: 'str') -> 'List[int]':
-        for i in s:
-            for j in p:
-                if p[j]==s[j]:
+        for i in range(len(list1)):
+            dic[list1[i]] = list[i]
+        #print(dic)
+        sum_p=1
+        for i in range(l):
+            sum_p*=dic[p[i]]
+        #print(sum_p)
+        sum_s=1
+        while(flag<=len(s)-l):
+            #print(flag)
+            sum_s=1
 
+            for i in range(l):
+                sum_s*=dic[s[flag+i]]
+            #print(sum_s)
+            if sum_s==sum_p:
+                final.append(flag)
+
+            flag+=1
+        return final
+a=Solution()
+s="absdasdaa"
+p='asd'
+print(a.findAnagrams(s,p))

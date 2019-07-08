@@ -25,4 +25,40 @@
 
 
 class Solution:
-    def isValid(self, s: 'str') -> 'bool':
+    def isValid(self, s):
+        list=[]
+        left=['[','{','[']
+        l=len(s)
+        if l<0:
+            return False
+        elif l==0:
+            return True
+        else:
+            list.append(s[0])
+        for i in range(1,l):
+            if list==[]:
+                list.append(s[i])
+            elif s[i]=='}' and list[-1]=='{':
+                list.pop()
+            elif s[i]==')' and list[-1]=='(':
+                list.pop()
+            elif s[i] == ']' and list[-1] == '[':
+                list.pop()
+            else:list.append(s[i])
+            #print(list)
+        if list==[]:
+            return True
+        else:return False
+
+
+
+
+
+
+s = Solution()
+list =[]
+print(s.isValid(list))
+# for j in range(len(list)):
+#     list.pop()
+#     print(list)
+
