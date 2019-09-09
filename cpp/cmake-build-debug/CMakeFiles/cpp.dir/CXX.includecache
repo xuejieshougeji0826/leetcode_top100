@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/main.cpp
+iostream
+-
+stdio.h
+/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/stdio.h
+

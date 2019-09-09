@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/yanghui_angle.cpp
+iostream
+/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/iostream
+

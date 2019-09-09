@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_gouzaohanshu">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/order_gouzaohanshu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 order_gouzaohanshu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_gouzaohanshu/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/order_gouzaohanshu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 order_gouzaohanshu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yanghui_angle">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/yanghui_angle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 yanghui_angle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yanghui_angle/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/yanghui_angle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 yanghui_angle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="guanglianda2">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/guanglianda2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 guanglianda2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="guanglianda2/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/guanglianda2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 guanglianda2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="83">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/83" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 83"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="83/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/83" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 83/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 21"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 21/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/121" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 121"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/121" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 121/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dongtaiduotai">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/dongtaiduotai" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 dongtaiduotai"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dongtaiduotai/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/dongtaiduotai" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 dongtaiduotai/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_gouzaohanshu2">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/order_gouzaohanshu2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 order_gouzaohanshu2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_gouzaohanshu2/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/order_gouzaohanshu2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 order_gouzaohanshu2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 server"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 server/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="876">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/876" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 876"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="876/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/876" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 876/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="617">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/617" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 617"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="617/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/617" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 617/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="237">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/237" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 237"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="237/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/237" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 237/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="19">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 19"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="19/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 19/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/206" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 206"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/206" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 206/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 client"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client/fast">
+				<Option output="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 client/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/121.cpp">
+			<Option target="121"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/19.cpp">
+			<Option target="19"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/206.cpp">
+			<Option target="206"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/21.cpp">
+			<Option target="21"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/237.cpp">
+			<Option target="237"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/617.cpp">
+			<Option target="617"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/83.cpp">
+			<Option target="83"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/876.cpp">
+			<Option target="876"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/client.cpp">
+			<Option target="client"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/dongtaiduotai.cpp">
+			<Option target="dongtaiduotai"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/guanglianda2.cpp">
+			<Option target="guanglianda2"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/order_gouzaohanshu.cpp">
+			<Option target="order_gouzaohanshu"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/order_gouzaohanshu2.cpp">
+			<Option target="order_gouzaohanshu2"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/server.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/yanghui_angle.cpp">
+			<Option target="yanghui_angle"/>
+		</Unit>
+		<Unit filename="/Users/gzc/Downloads/研二下+实习/研二下/leetcode_top100/cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
